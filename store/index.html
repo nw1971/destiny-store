@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Destiny Survival Store</title>
+<style>
+:root {
+    --bg1: #0b0f14;
+    --bg2: #101720;
+    --panel: #18222d;
+    --panel2: #213040;
+    --text: #f4f7fb;
+    --muted: #b7c4d1;
+    --accent: #21d4a7;
+    --accent2: #12b886;
+    --border: #2c3b4b;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--text);
+    background:
+        radial-gradient(circle at top, rgba(33,212,167,.18), transparent 28%),
+        linear-gradient(180deg, var(--bg1), var(--bg2));
+}
+.hero {
+    text-align: center;
+    padding: 56px 20px 30px;
+}
+.hero h1 {
+    margin: 0 0 12px;
+    font-size: 42px;
+    color: var(--accent);
+    letter-spacing: .5px;
+}
+.hero p {
+    margin: 0 auto;
+    max-width: 760px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: var(--muted);
+}
+.wrap {
+    width: min(1200px, 94%);
+    margin: 0 auto;
+    padding: 10px 0 48px;
+}
+.meta {
+    text-align: center;
+    color: var(--muted);
+    margin: 0 0 22px;
+    font-size: 15px;
+}
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 250px;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    padding: 22px;
+    background: linear-gradient(180deg, var(--panel), var(--panel2));
+    box-shadow: 0 12px 28px rgba(0, 0, 0, .28);
+}
+.badge {
+    display: inline-block;
+    margin-bottom: 14px;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: rgba(33, 212, 167, .15);
+    color: var(--accent);
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: .4px;
+    text-transform: uppercase;
+}
+.card h2 {
+    margin: 0 0 12px;
+    font-size: 24px;
+    line-height: 1.3;
+}
+.card p {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.6;
+    font-size: 15px;
+}
+.card-bottom {
+    margin-top: 22px;
+}
+.btn {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    border-radius: 12px;
+    font-weight: bold;
+    color: #06231a;
+    background: linear-gradient(180deg, var(--accent), var(--accent2));
+    transition: transform .15s ease;
+}
+.btn:hover {
+    transform: translateY(-1px);
+}
+.footer {
+    text-align: center;
+    color: var(--muted);
+    padding: 12px 20px 40px;
+    font-size: 14px;
+}
+</style>
+</head>
+<body>
+    <section class="hero">
+        <h1>Destiny Survival Store</h1>
+        <p>Preparedness, self-reliance, off-grid living, and homesteading guides ready for instant digital download.</p>
+    </section>
+
+    <div class="wrap">
+        <div class="meta">11 guides available</div>
+        <div class="grid">
+            
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>30 Day Prepper Food Storage Plan</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="30_day_prepper_food_storage_plan.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Backyard Chickens Starter Guide</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="backyard_chickens_starter_guide.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Beginner Homesteading Blueprint</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="beginner_homesteading_blueprint.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Bug Out Bag Essentials Guide</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="bug_out_bag_essentials_guide.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Diy Solar Power Setup Guide</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="diy_solar_power_setup_guide.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Emergency Preparedness Manual</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="emergency_preparedness_manual.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Emergency Survival Skills Handbook</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="emergency_survival_skills_handbook.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>How To Start A Self Sufficient Homestead</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="how_to_start_a_self-sufficient_homestead.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Off Grid Survival Guide</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="off_grid_survival_guide.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Offgrid Survival Guide</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="offgrid_survival_guide.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        <div class="card">
+            <div class="card-top">
+                <div class="badge">Digital Guide</div>
+                <h2>Rainwater Collection System Guide</h2>
+                <p>Instant download for preparedness, off-grid living, and homestead planning.</p>
+            </div>
+            <div class="card-bottom">
+                <a class="btn" href="rainwater_collection_system_guide.pdf" download>Download Guide</a>
+            </div>
+        </div>
+        
+        </div>
+    </div>
+
+    <div class="footer">
+        Last updated: 2026-03-19 02:57:32
+    </div>
+</body>
+</html>
