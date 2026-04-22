@@ -3905,3 +3905,8 @@ If things go bad tonight, what’s your plan?
 https://nw1971.github.io/destiny-store/['post_1776894429.html', 'post_1776894428.html', 'post_1776894427.html', 'post_1776894425.html', 'post_1776894424.html', 'post_1776894423.html', 'post_1776894422.html', 'post_1776894421.html', 'post_1776894420.html', 'post_1776894419.html', 'post_1776894418.html', 'post_1776894417.html', 'post_1776894416.html', 'post_1776894414.html', 'post_1776894413.html', 'post_1776894412.html', 'post_1776894411.html', 'post_1776894409.html', 'post_1776894408.html', 'post_1776894407.html']
 
 [Wed Apr 22 16:48:11 2026] Quora: People think they’re ready… until they’re not. https://nw1971.github.io/destiny-store/post_1776894491.html
+[Wed Apr 22 16:50:09 2026] Platform: Direct Traffic Engine
+This is what actually works when everything fails.
+
+https://nw1971.github.io/destiny-store/['post_1776894608.html', 'post_1776894606.html', 'post_1776894604.html', 'post_1776894603.html', 'post_1776894602.html', 'post_1776894600.html', 'post_1776894598.html', 'post_1776894597.html', 'post_1776894595.html', 'post_1776894593.html', 'post_1776894592.html', 'post_1776894590.html', 'post_1776894589.html', 'post_1776894588.html', 'post_1776894587.html', 'post_1776894586.html', 'post_1776894585.html', 'post_1776894584.html', 'post_1776894582.html', 'post_1776894580.html']
+
