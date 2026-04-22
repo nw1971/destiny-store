@@ -3784,3 +3784,4 @@ If things go bad tonight, what’s your plan?
 
 https://nw1971.github.io/destiny-store/['post_1776890828.html', 'post_1776890827.html', 'post_1776890826.html', 'post_1776890824.html', 'post_1776890823.html', 'post_1776890822.html', 'post_1776890819.html', 'post_1776890818.html', 'post_1776890817.html', 'post_1776890816.html', 'post_1776890815.html', 'post_1776890814.html', 'post_1776890813.html', 'post_1776890812.html', 'post_1776890810.html', 'post_1776890808.html', 'post_1776890807.html', 'post_1776890806.html', 'post_1776890805.html', 'post_1776890804.html']
 
+[Wed Apr 22 15:48:10 2026] External Forum: If things go bad tonight, what’s your plan? https://nw1971.github.io/destiny-store/post_1776890889.html
