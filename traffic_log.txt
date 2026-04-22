@@ -3343,3 +3343,8 @@ This is what actually works when everything fails.
 
 https://nw1971.github.io/destiny-store/['post_1776877568.html', 'post_1776877567.html', 'post_1776877566.html', 'post_1776877563.html', 'post_1776877562.html', 'post_1776877560.html', 'post_1776877559.html', 'post_1776877557.html', 'post_1776877556.html', 'post_1776877555.html', 'post_1776877551.html', 'post_1776877549.html', 'post_1776877548.html', 'post_1776877547.html', 'post_1776877546.html', 'post_1776877545.html', 'post_1776877544.html', 'post_1776877540.html', 'post_1776877537.html', 'post_1776877536.html']
 
+[Wed Apr 22 12:08:07 2026] Platform: Direct Traffic Engine
+If things go bad tonight, what’s your plan?
+
+https://nw1971.github.io/destiny-store/['post_1776877685.html', 'post_1776877684.html', 'post_1776877683.html', 'post_1776877681.html', 'post_1776877679.html', 'post_1776877676.html', 'post_1776877674.html', 'post_1776877672.html', 'post_1776877670.html', 'post_1776877669.html', 'post_1776877668.html', 'post_1776877667.html', 'post_1776877664.html', 'post_1776877662.html', 'post_1776877661.html', 'post_1776877659.html', 'post_1776877658.html', 'post_1776877657.html', 'post_1776877656.html', 'post_1776877653.html']
+
