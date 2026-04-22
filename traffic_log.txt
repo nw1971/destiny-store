@@ -4150,3 +4150,4 @@ Most people are not prepared for what’s coming.
 
 https://nw1971.github.io/destiny-store/['post_1776901810.html', 'post_1776901809.html', 'post_1776901807.html', 'post_1776901805.html', 'post_1776901802.html', 'post_1776901801.html', 'post_1776901800.html', 'post_1776901799.html', 'post_1776901797.html', 'post_1776901796.html', 'post_1776901795.html', 'post_1776901794.html', 'post_1776901793.html', 'post_1776901791.html', 'post_1776901790.html', 'post_1776901788.html', 'post_1776901787.html', 'post_1776901786.html', 'post_1776901785.html', 'post_1776901784.html']
 
+[Wed Apr 22 18:51:12 2026] Quora: People think they’re ready… until they’re not. https://nw1971.github.io/destiny-store/post_1776901870.html
