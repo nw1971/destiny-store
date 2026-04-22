@@ -3451,3 +3451,8 @@ You don’t need guesswork — you need a system.
 
 https://nw1971.github.io/destiny-store/['post_1776880746.html', 'post_1776880745.html', 'post_1776880744.html', 'post_1776880743.html', 'post_1776880741.html', 'post_1776880740.html', 'post_1776880738.html', 'post_1776880737.html', 'post_1776880735.html', 'post_1776880734.html', 'post_1776880733.html', 'post_1776880731.html', 'post_1776880730.html', 'post_1776880729.html', 'post_1776880727.html', 'post_1776880726.html', 'post_1776880724.html', 'post_1776880722.html', 'post_1776880721.html', 'post_1776880720.html']
 
+[Wed Apr 22 13:02:07 2026] Platform: Direct Traffic Engine
+This is what actually works when everything fails.
+
+https://nw1971.github.io/destiny-store/['post_1776880927.html', 'post_1776880926.html', 'post_1776880925.html', 'post_1776880924.html', 'post_1776880923.html', 'post_1776880921.html', 'post_1776880920.html', 'post_1776880919.html', 'post_1776880918.html', 'post_1776880916.html', 'post_1776880915.html', 'post_1776880913.html', 'post_1776880912.html', 'post_1776880911.html', 'post_1776880909.html', 'post_1776880908.html', 'post_1776880907.html', 'post_1776880906.html', 'post_1776880904.html', 'post_1776880903.html']
+
