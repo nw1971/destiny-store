@@ -3761,3 +3761,8 @@ You don’t need guesswork — you need a system.
 https://nw1971.github.io/destiny-store/['post_1776890108.html', 'post_1776890105.html', 'post_1776890104.html', 'post_1776890102.html', 'post_1776890100.html', 'post_1776890097.html', 'post_1776890094.html', 'post_1776890093.html', 'post_1776890091.html', 'post_1776890089.html', 'post_1776890085.html', 'post_1776890083.html', 'post_1776890081.html', 'post_1776890079.html', 'post_1776890078.html', 'post_1776890077.html', 'post_1776890074.html', 'post_1776890071.html', 'post_1776890070.html', 'post_1776890068.html']
 
 [Wed Apr 22 15:36:10 2026] External Forum: If things go bad tonight, what’s your plan? https://nw1971.github.io/destiny-store/post_1776890170.html
+[Wed Apr 22 15:38:09 2026] Platform: External Forum
+This is what actually works when everything fails.
+
+https://nw1971.github.io/destiny-store/['post_1776890287.html', 'post_1776890286.html', 'post_1776890284.html', 'post_1776890282.html', 'post_1776890281.html', 'post_1776890278.html', 'post_1776890277.html', 'post_1776890276.html', 'post_1776890275.html', 'post_1776890272.html', 'post_1776890271.html', 'post_1776890270.html', 'post_1776890267.html', 'post_1776890266.html', 'post_1776890264.html', 'post_1776890263.html', 'post_1776890261.html', 'post_1776890259.html', 'post_1776890255.html', 'post_1776890253.html']
+
