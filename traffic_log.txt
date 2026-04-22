@@ -4049,3 +4049,8 @@ If things go bad tonight, what’s your plan?
 https://nw1971.github.io/destiny-store/['post_1776898749.html', 'post_1776898744.html', 'post_1776898743.html', 'post_1776898742.html', 'post_1776898741.html', 'post_1776898740.html', 'post_1776898739.html', 'post_1776898738.html', 'post_1776898733.html', 'post_1776898732.html', 'post_1776898731.html', 'post_1776898730.html', 'post_1776898728.html', 'post_1776898727.html', 'post_1776898726.html', 'post_1776898722.html', 'post_1776898721.html', 'post_1776898719.html', 'post_1776898718.html', 'post_1776898717.html']
 
 [Wed Apr 22 18:00:12 2026] Direct Traffic Engine: You don’t need guesswork — you need a system. https://nw1971.github.io/destiny-store/post_1776898811.html
+[Wed Apr 22 18:02:10 2026] Platform: External Forum
+This is what actually works when everything fails.
+
+https://nw1971.github.io/destiny-store/['post_1776898930.html', 'post_1776898929.html', 'post_1776898928.html', 'post_1776898925.html', 'post_1776898924.html', 'post_1776898923.html', 'post_1776898922.html', 'post_1776898921.html', 'post_1776898920.html', 'post_1776898919.html', 'post_1776898918.html', 'post_1776898916.html', 'post_1776898914.html', 'post_1776898913.html', 'post_1776898911.html', 'post_1776898910.html', 'post_1776898909.html', 'post_1776898907.html', 'post_1776898906.html', 'post_1776898905.html']
+
