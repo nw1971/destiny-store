@@ -3568,3 +3568,4 @@ People think they’re ready… until they’re not.
 
 https://nw1971.github.io/destiny-store/['post_1776884347.html', 'post_1776884345.html', 'post_1776884344.html', 'post_1776884343.html', 'post_1776884341.html', 'post_1776884339.html', 'post_1776884337.html', 'post_1776884336.html', 'post_1776884335.html', 'post_1776884334.html', 'post_1776884333.html', 'post_1776884332.html', 'post_1776884329.html', 'post_1776884328.html', 'post_1776884327.html', 'post_1776884326.html', 'post_1776884324.html', 'post_1776884323.html', 'post_1776884322.html', 'post_1776884321.html']
 
+[Wed Apr 22 14:00:10 2026] Quora: People think they’re ready… until they’re not. https://nw1971.github.io/destiny-store/post_1776884408.html
