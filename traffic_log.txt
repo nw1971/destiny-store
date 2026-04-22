@@ -4090,3 +4090,4 @@ If things go bad tonight, what’s your plan?
 
 https://nw1971.github.io/destiny-store/['post_1776900010.html', 'post_1776900008.html', 'post_1776900007.html', 'post_1776900006.html', 'post_1776900005.html', 'post_1776900004.html', 'post_1776900002.html', 'post_1776900001.html', 'post_1776900000.html', 'post_1776899999.html', 'post_1776899997.html', 'post_1776899996.html', 'post_1776899994.html', 'post_1776899992.html', 'post_1776899991.html', 'post_1776899990.html', 'post_1776899989.html', 'post_1776899988.html', 'post_1776899987.html', 'post_1776899986.html']
 
+[Wed Apr 22 18:21:12 2026] Quora: People think they’re ready… until they’re not. https://nw1971.github.io/destiny-store/post_1776900071.html
