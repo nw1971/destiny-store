@@ -4271,3 +4271,8 @@ People think they’re ready… until they’re not.
 https://nw1971.github.io/destiny-store/['post_1776905411.html', 'post_1776905410.html', 'post_1776905409.html', 'post_1776905408.html', 'post_1776905407.html', 'post_1776905406.html', 'post_1776905405.html', 'post_1776905404.html', 'post_1776905403.html', 'post_1776905402.html', 'post_1776905401.html', 'post_1776905400.html', 'post_1776905399.html', 'post_1776905397.html', 'post_1776905396.html', 'post_1776905395.html', 'post_1776905394.html', 'post_1776905392.html', 'post_1776905391.html', 'post_1776905390.html']
 
 [Wed Apr 22 19:51:12 2026] Direct Traffic Engine: People think they’re ready… until they’re not. https://nw1971.github.io/destiny-store/post_1776905471.html
+[Wed Apr 22 19:53:11 2026] Platform: Direct Traffic Engine
+People think they’re ready… until they’re not.
+
+https://nw1971.github.io/destiny-store/['post_1776905590.html', 'post_1776905589.html', 'post_1776905588.html', 'post_1776905587.html', 'post_1776905586.html', 'post_1776905585.html', 'post_1776905583.html', 'post_1776905582.html', 'post_1776905581.html', 'post_1776905580.html', 'post_1776905579.html', 'post_1776905578.html', 'post_1776905577.html', 'post_1776905576.html', 'post_1776905575.html', 'post_1776905574.html', 'post_1776905572.html', 'post_1776905571.html', 'post_1776905569.html', 'post_1776905568.html']
+
